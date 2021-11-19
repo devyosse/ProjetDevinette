@@ -1,0 +1,47 @@
+body{
+    background-color: dodgerblue;
+}
+
+#button{
+    width: 50px;
+    margin-left: 45%;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    color: #ffd300;
+}
+
+#compteur2{
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: 30px;
+}
+
+#bloc{
+    border: black 2px solid;
+    width:500px;
+    margin-left: 35%;
+    margin-top: 15%;
+    border-radius: 20px;
+}
+
+#input{
+    margin-left: 50%;
+}
+
+#stile{
+    background-color: darkgray;
+}
+
+#compteur2{
+    color: #ffd300;
+}
+
+#button2{
+
+    width: 50px;
+    margin-left: 85%;
+    font-weight: bold;
+}
